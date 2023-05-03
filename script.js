@@ -1,5 +1,6 @@
 function flip() {
     let flp = document.getElementById("clik");
+    Reset();
     var rt = 0;
     var s = 0;
     var jmp = setInterval(() => {
